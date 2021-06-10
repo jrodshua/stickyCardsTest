@@ -67,22 +67,22 @@ p {
   height: 75vh;
   position: sticky;
   top: 5px;
-  background: #ffffff;
+  background: linear-gradient(105deg, #cfd9df, #e2ebf0);
 }
 
 .projectOne {
   height: 70vh;
-  background: #ffffff;
   position: sticky;
   top: 45px;
   margin-top: -200px;
+  background: linear-gradient(105deg, #ff9a9e, #fecfef);
 }
 
 .projectTwo {
   height: 65vh;
-  background: #ffffff;
   position: sticky;
   top: 75px;
+  background: linear-gradient(105deg, #a1c4fd, #c2e9fb);
 }
 
 .projectBlank {
